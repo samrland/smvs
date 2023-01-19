@@ -1,6 +1,6 @@
 # smvs
 
-v2022.11a ([smvs](https://samrpf.github.io/smvs/))
+v2023.01a ([smvs](https://samrpf.github.io/smvs/))
 
 This document is the outline for SMVS, or the Samr Month Versioning System.
 
@@ -10,11 +10,11 @@ Everything written in this document is under the terms of the [MIT License](LICE
 
 ## summary
 
-Given a version number YEAR.MONTH[]MINOR:
+Given a version number YEAR.MONTH[MINOR]:
 
 - YEAR should be the calendar year which the specific version of the software is released in
 - MONTH should be the calendar month which the specific version of the software is released in
-- MINOR should be an alphabet character, incrementing for each minor version release
+- MINOR should be a Latin alphabet character, incrementing for each minor version release
 
 For example, a piece of software on its third minor revision within the month of April 2021 would be 2021.4c.
 
