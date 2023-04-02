@@ -1,10 +1,10 @@
 # smvs
 
-v2023.01a ([smvs](https://samrpf.github.io/smvs/))
+v2023.03a ([smvs](https://samrland.github.io/smvs/))
 
 This document is the outline for SMVS, or the Samr Month Versioning System.
 
-SMVS is a version numbering system devised by [@samrpf](https://github.com/samrpf) to create an easier system for developers to use.
+SMVS is a version numbering system devised by [samr](https://github.com/samrland) to create an easier system for developers to use.
 
 Everything written in this document is under the terms of the [MIT License](LICENSE).
 
@@ -24,9 +24,5 @@ For example, a piece of software on its third minor revision within the month of
 
 ---
 
-```text
-
-To show that you use SMVS, please add link this page from your software README file!
-In Markdown, use [smvs](https://samrpf.github.io/smvs/) to link this document.
-
-```
+To show that you use SMVS, please link to this page from your software README file!
+In Markdown, use `[smvs](https://samrland.github.io/smvs/)` to link this document.
